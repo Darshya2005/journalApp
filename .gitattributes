@@ -1,0 +1,6 @@
+# Normalize all text files automatically
+* text=auto
+
+# Force correct line endings for Maven Wrapper scripts
+/mvnw text eol=lf
+*.cmd text eol=crlf
